@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Twitterクライアントやで</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="twitter_consumer_key">L2V1kyttTebw15uAPn4LBk9lz</string>
+    <string name="twitter_consumer_secret">8GXBz60WqpL4bqNwikNWOWw8Zl58Zns8oUdfrjHYHTB55HDHiJ</string>
+    <string name="twitter_callback_url">gabu://twitter</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
